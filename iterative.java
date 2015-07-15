@@ -35,6 +35,4 @@ class Brute2{
 		System.out.println(">> answer: " + trial);
 		System.out.println(">> # of iterations: " + iNumber);
 	}
-
-
 }
